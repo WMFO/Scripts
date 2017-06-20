@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Fix Problems With Rivendell
+Comment=WMFO problem fixer
+Exec=gnome-terminal -x bash -c '/opt/wmfo/fixer/rivendell_fixer.sh'
+Icon=/opt/wmfo/fixer/Wrench-Icon.png
+Terminal=false
+Type=Application
+Categories=Application;
